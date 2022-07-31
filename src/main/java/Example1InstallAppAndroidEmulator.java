@@ -27,5 +27,6 @@ public class Example1InstallAppAndroidEmulator {
         driver = new AndroidDriver<MobileElement>(new URL("http://127.0.0.1:4723/wd/hub/"), dc);
 
         driver.quit();
+
     }
 }
