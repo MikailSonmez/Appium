@@ -7,7 +7,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-public class Example1InstallAppAndroidEmulator {
+public class Example2InstallAppAndroidEmulator {
 
     public static void main(String[] args) throws MalformedURLException, InterruptedException {
 

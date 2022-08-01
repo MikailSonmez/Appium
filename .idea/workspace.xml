@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1a976af-3149-401b-9370-0846cdc81deb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DialANumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SendingSMS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Example1InstallAppRealDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Example3HandleSwitchEmulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Example4DragAndDropAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Example5HorizontalScrolling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Example6VerticalScrolling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Example7SwitchesinAPIDemosApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IOSExampleDesiredCapabilities.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Example1InstallAppAndroidEmulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Example1InstallAppAndroidEmulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Example1InstallAppAndroidEmulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Example2InstallAppAndroidEmulator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +58,7 @@
       <recent name="tripadvisor.tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SendingSMS">
+  <component name="RunManager" selected="Application.Example3HandleSwitchEmulator">
     <configuration name="DialANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DialANumber" />
       <module name="Appium" />
@@ -62,8 +66,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example1InstallAppAndroidEmulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example1InstallAppAndroidEmulator" />
+    <configuration name="Example2InstallAppAndroidEmulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example2InstallAppAndroidEmulator" />
+      <module name="Appium" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example3HandleSwitchEmulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example3HandleSwitchEmulator" />
       <module name="Appium" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,24 +83,6 @@
     <configuration name="SendingSMS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SendingSMS" />
       <module name="Appium" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Feature: Search" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/Search.feature" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="Appium" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: Search" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -111,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example3HandleSwitchEmulator" />
+        <item itemvalue="Application.Example2InstallAppAndroidEmulator" />
         <item itemvalue="Application.SendingSMS" />
         <item itemvalue="Application.DialANumber" />
-        <item itemvalue="Application.Example1InstallAppAndroidEmulator" />
         <item itemvalue="JUnit.SearchTest" />
-        <item itemvalue="Cucumber Java.Feature: Search" />
       </list>
     </recent_temporary>
   </component>
