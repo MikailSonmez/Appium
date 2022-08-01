@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1a976af-3149-401b-9370-0846cdc81deb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Example1InstallAppRealDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Example3HandleSwitchEmulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Example4DragAndDropAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Example5HorizontalScrolling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Example6VerticalScrolling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Example7SwitchesinAPIDemosApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IOSExampleDesiredCapabilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IOSExampleDatePicker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IOSExamplePickerView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Example1InstallAppAndroidEmulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Example2InstallAppAndroidEmulator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
