@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1a976af-3149-401b-9370-0846cdc81deb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DialANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SendingSMS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Example1InstallAppAndroidEmulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Example1InstallAppAndroidEmulator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,18 +34,18 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_directory_selection": "C:/Users/mikai/Appium/src/test/java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/mikai/Appium/src/test/java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mikai\Appium\src\main\java\tripadvisor\tests" />
@@ -50,9 +54,23 @@
       <recent name="tripadvisor.tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example1InstallAppAndroidEmulator">
+  <component name="RunManager" selected="Application.SendingSMS">
+    <configuration name="DialANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DialANumber" />
+      <module name="Appium" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Example1InstallAppAndroidEmulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Example1InstallAppAndroidEmulator" />
+      <module name="Appium" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendingSMS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SendingSMS" />
       <module name="Appium" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,6 +111,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SendingSMS" />
+        <item itemvalue="Application.DialANumber" />
         <item itemvalue="Application.Example1InstallAppAndroidEmulator" />
         <item itemvalue="JUnit.SearchTest" />
         <item itemvalue="Cucumber Java.Feature: Search" />
