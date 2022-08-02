@@ -44,5 +44,7 @@ public class SendingSMS {
         driver.findElementById("com.google.android.apps.messaging:id/compose_container").sendKeys(Keys.ENTER);
 
         driver.quit();
+
+
     }
 }
