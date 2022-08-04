@@ -58,11 +58,5 @@ public class DialANumber {
         driver.quit();
 
 
-
-
-
-
-        driver.quit();
-
     }
 }
