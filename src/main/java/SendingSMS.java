@@ -24,6 +24,7 @@ public class SendingSMS {
         dc.setCapability(MobileCapabilityType.DEVICE_NAME, "Android Emulator");
 
         //dc.setCapability("appPackage", "com.android.mms");
+
         //dc.setCapability("appActivity", "com.android.mms.ui.ComposeMessageActivity");
 
         // dc.setCapability(MobileCapabilityType.APP,"C:\\apkfiles\\asdas.apk");

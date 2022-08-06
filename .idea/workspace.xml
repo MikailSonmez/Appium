@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d1a976af-3149-401b-9370-0846cdc81deb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DialANumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DialANumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
       <recent name="tripadvisor.tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example3HandleSwitchEmulator">
+  <component name="RunManager" selected="Application.Example2InstallAppAndroidEmulator">
     <configuration name="DialANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DialANumber" />
       <module name="Appium" />
@@ -96,8 +97,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example3HandleSwitchEmulator" />
         <item itemvalue="Application.Example2InstallAppAndroidEmulator" />
+        <item itemvalue="Application.Example3HandleSwitchEmulator" />
         <item itemvalue="Application.SendingSMS" />
         <item itemvalue="Application.DialANumber" />
         <item itemvalue="JUnit.SearchTest" />
