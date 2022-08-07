@@ -51,6 +51,7 @@ public class DialANumber {
 
         Thread.sleep(3000);
 
+
         driver.findElementById("com.google.android.dialer:id/dialpad_floating_action_button").click();
 
         Thread.sleep(5000);
