@@ -29,6 +29,7 @@ public class Example3HandleSwitchEmulator {
 
         // Handling switch element
 
+
         // round 1
         driver.findElementById("com.android.androidui:id/mySwitch").click(); //click on switch
 
