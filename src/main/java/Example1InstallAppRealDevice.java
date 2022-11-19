@@ -23,6 +23,7 @@ public class Example1InstallAppRealDevice {
         dc.setCapability(MobileCapabilityType.DEVICE_NAME, "Android Emulator");
 
         driver = new AndroidDriver<MobileElement>(new URL("http://127.0.0.1:4723/wd/hub/"), dc);
-        
+
+
     }
 }
