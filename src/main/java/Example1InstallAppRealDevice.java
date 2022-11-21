@@ -8,6 +8,7 @@ import java.net.URL;
 
 public class Example1InstallAppRealDevice {
 
+
     public static void main(String[] args) throws MalformedURLException {
 
         AndroidDriver<MobileElement> driver;
