@@ -30,6 +30,7 @@ public class SendingSMS {
         // dc.setCapability(MobileCapabilityType.APP,"C:\\apkfiles\\asdas.apk");
 
         driver = new AndroidDriver<MobileElement>(new URL("http://127.0.0.1:4723/wd/hub/"), dc);
+
         Thread.sleep(5000);
 
         driver.findElementByXPath("//android.widget.TextView[@content-desc=\"Messages\"]").click();
