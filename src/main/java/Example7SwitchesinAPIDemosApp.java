@@ -48,6 +48,7 @@ public class Example7SwitchesinAPIDemosApp {
         // radio button 1
 
         driver.findElementById("io.appium.android.apis:id/radio1").click();
+        
 
 
     }
