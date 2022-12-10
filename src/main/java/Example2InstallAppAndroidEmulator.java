@@ -54,6 +54,7 @@ public class Example2InstallAppAndroidEmulator {
 
         driver.quit();
         
+        
 
     }
 }
