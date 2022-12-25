@@ -34,6 +34,7 @@ public class SendingSMS {
         Thread.sleep(5000);
 
         driver.findElementByXPath("//android.widget.TextView[@content-desc=\"Messages\"]").click();
+        
         Thread.sleep(5000);
         driver.findElementById("com.google.android.apps.messaging:id/start_new_conversation_button").click();
         Thread.sleep(5000);
