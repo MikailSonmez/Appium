@@ -43,6 +43,7 @@ public class Example5HorizontalScrolling {
 
         String val2=driver.findElementById("com.android.androidui::id/textProgess").getText();
         System.out.println(val2);
+        
 
     }
 

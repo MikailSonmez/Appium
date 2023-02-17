@@ -24,5 +24,6 @@ public class IOSExampleDesiredCapabilities {
         dc.setCapability(MobileCapabilityType.DEVICE_NAME, "iPhone X");
 
         driver = new IOSDriver<MobileElement>(new URL("http://127.0.0.1:4723/wd/hub/"), dc);
+        
     }
 }

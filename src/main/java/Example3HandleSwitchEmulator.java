@@ -20,6 +20,7 @@ public class Example3HandleSwitchEmulator {
         dc.setCapability(MobileCapabilityType.PLATFORM_NAME, "Android");
 
         dc.setCapability(MobileCapabilityType.PLATFORM_VERSION, "9"); // version number here
+        
 
         dc.setCapability(MobileCapabilityType.DEVICE_NAME, "Android Emulator");
 

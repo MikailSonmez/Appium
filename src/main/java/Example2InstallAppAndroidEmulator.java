@@ -53,6 +53,8 @@ public class Example2InstallAppAndroidEmulator {
         Thread.sleep(5000);
 
         driver.quit();
+        
+        
 
     }
 }
