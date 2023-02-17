@@ -41,6 +41,7 @@ public class SendingSMS {
         Thread.sleep(5000);
         driver.findElementById("com.google.android.apps.messaging:id/recipient_text_view").sendKeys(Keys.ENTER);
         Thread.sleep(5000);
+
         driver.findElementById("com.google.android.apps.messaging:id/compose_container").sendKeys("hi");
 
         driver.findElementById("com.google.android.apps.messaging:id/compose_container").sendKeys(Keys.ENTER);
